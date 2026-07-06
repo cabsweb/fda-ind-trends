@@ -2,6 +2,8 @@
 
 Tracks FDA CDER's annual **new Investigational New Drug (IND) application receipts** for drugs and non-biosimilar biologics, 2015–2025.
 
+![FDA New IND Application Receipts, 2015-2025](fda_ind_receipts_2015_2025.png)
+
 ## Key finding: growth is modest, not dramatic
 
 Total new IND receipts grew from 1,564 (2015) to 1,960 (2025) — **+25% over 10 years, a ~2.3% CAGR**. The trend is not a steady climb: a COVID-era spike in 2020–2021 (+30% in 2020 alone) was followed by a pullback through 2023 (biotech funding slowdown), with 2024–2025 recovering to a new high that's only marginally above the 2020 peak.
